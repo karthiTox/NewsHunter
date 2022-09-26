@@ -1,0 +1,8 @@
+.colCard {
+  transition: background-color 200ms;
+  background-color: #212529;
+}
+
+.colCard:hover {
+  background-color: royalblue;
+}

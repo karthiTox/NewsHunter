@@ -1,0 +1,6 @@
+{
+    "name": "news-hunter",
+    "version": "0.0.2",
+    "homepage": "index.html",
+    "login_redirect":"/app/index.html"
+}

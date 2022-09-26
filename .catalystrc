@@ -1,0 +1,29 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "2678000000002151",
+      "name": "newsHunter",
+      "domain": {
+        "id": "50010641904",
+        "name": "newshunter-60016913477.development"
+      },
+      "env": [
+        {
+          "idx": 1,
+          "id": "60016913477",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}

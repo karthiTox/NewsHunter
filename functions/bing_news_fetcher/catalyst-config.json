@@ -1,0 +1,10 @@
+{
+	"deployment": {
+		"name": "bing_news_fetcher",
+		"stack": "node16",
+		"type": "advancedio"
+	},
+	"execution": {
+		"main": "index.js"
+	}
+}

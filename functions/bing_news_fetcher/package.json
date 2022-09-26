@@ -1,0 +1,11 @@
+{
+	"name": "bing_news_fetcher",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "k@g.com",
+	"dependencies": {
+		"axios": "^0.27.2",
+		"crypto-js": "^4.1.1",
+		"zcatalyst-sdk-node": "latest"
+	}
+}

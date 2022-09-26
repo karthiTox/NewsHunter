@@ -1,0 +1,13 @@
+{
+  "client": {
+    "source": "news-hunter",
+    "plugin": "zcatalyst-cli-plugin-react"
+  },
+  "functions": {
+    "targets": [
+      "bing_news_fetcher"
+    ],
+    "ignore": [],
+    "source": "functions"
+  }
+}

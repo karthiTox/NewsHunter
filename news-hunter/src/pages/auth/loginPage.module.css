@@ -1,0 +1,12 @@
+.container {
+  /* background-color: rgb(143, 143, 143); */
+}
+
+.box {
+  width: 100vw;
+  height: 80vh;
+}
+
+.text {
+  color: white;
+}

@@ -1,0 +1,1 @@
+GET http://localhost:3000/server/bing_news_fetcher?searchTerm=elon+musk+is+indian&count=10&offset=0
